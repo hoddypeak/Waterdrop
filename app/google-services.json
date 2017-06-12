@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "637433566787",
+    "firebase_url": "https://waterdrop-154907.firebaseio.com",
+    "project_id": "waterdrop-154907",
+    "storage_bucket": "waterdrop-154907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637433566787:android:62f416412faf2863",
+        "android_client_info": {
+          "package_name": "number.android.waterdrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637433566787-5oltds8pcfo7nhbodki7iqtjmqga7gj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqbq9dbu0JS0r5bp99tWblJGfrVWGIdUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

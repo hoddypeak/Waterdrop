@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Waterdrop</string>
+
+    <string name="google_maps_api_key_dev">AIzaSyCmgL33Cj4oWFa1gm4jMGNgmSimENeXNX0</string>
+    <string name="google_maps_api_key">AIzaSyCf4R2JqIInC4Al0K3XlH-UlYlKSVcUrvU</string>
+
+    <string name="title_activity_activity_one">ActivityOne</string>
+
+    <!-- Login -->
+    <string name="welcome">Welcome</string>
+    <string name="terms">Terms and conditions</string>
+    <string name="btn_proceed">Proceed</string>
+
+    <!-- Vendor pick -->
+    <string name="vp_title">Choose any one supplier</string>
+    <string name="current_vendor_intent">Your current vendor not listed?</string>
+    <string name="btn_continue">Continue</string>
+
+    <!-- Vendor from contact -->
+    <string name="current_vendor_contact_i">You can choose your existing vendor as your default vendor. Enter the number in the below given field or you can pick from you contact by clicking the Pick from contacts</string>
+    <string name="mobile_number_hint">Enter your vendor number</string>
+    <string name="pick_contact">Pick from contact</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Settings</string>
+    <string name="hello_blank_fragment2">Order</string>
+    <string name="hello_blank_fragment3">Order History</string>
+
+    <!-- Order -->
+    <string-array name="verses">
+        <item>By means of water, we give life to everything</item>
+        <item>Water is the driving force of all nature » Leonardo da Vinci</item>
+        <item>If there is magic on this planet, it is contained in water. » Loran Eisley </item>
+        <item>A Drop Of Water Is Worth More Than A Sack Of Gold To A Thirsty Man</item>
+        <item>Dont Waste It, Just Taste It!</item>
+        <item>Every Drop Of Water Counts</item>
+        <item>When You Conserve Water, You Conserve Life!</item>
+    </string-array>
+    <string name="btn_order">Order now</string>
+
+    <!-- Order history -->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment4">Recent Order</string>
+    <string name="hello_blank_fragment5">Delivered Order</string>
+    <string name="info_refresh">Pull to refresh</string>
+    <string name="info_confirm_delivery">Swipe order to confirm delivery</string>
+    <string name="icon_check">&#xf00c;</string>
+
+    <!-- Update user detail-->
+    <string name="btn_update">Update</string>
+
+
+
+</resources>
